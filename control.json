@@ -1,0 +1,8 @@
+{
+    "name"    : "webapps-raphael-lib", 
+    "version" : "0.1.0",
+    "classes" : ["Raphael"],
+    "deps"    : [
+        "webapps-framework-lib"
+    ]
+}
